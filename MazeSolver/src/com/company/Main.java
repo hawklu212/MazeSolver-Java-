@@ -2,7 +2,7 @@ package com.company;
 
 import Models.Position;
 import java.util.LinkedList;
-//added comment test1
+//added comment test2
 public class Main {
     static int maze_size = 20;
     static int x = 3;
